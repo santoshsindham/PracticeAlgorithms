@@ -1,11 +1,8 @@
-package test;
-
-import org.junit.platform.commons.util.StringUtils;
+package problems;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import java.util.stream.Stream;
 
 import static java.lang.Integer.parseInt;
 

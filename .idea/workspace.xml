@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87c23d9c-8eb2-43c7-af51-4db7d329dbcf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeAlgorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/META-INF/Practice.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeAlgorithms/test/CatAndMouse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeAlgorithms/test/CountingValleys2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeAlgorithms/test/ElectronicsShop3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeAlgorithms/test/ElectronicsShop3_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeAlgorithms/test/JumpingOnTheClouds4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeAlgorithms/test/JumpingOnTheClouds4_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeAlgorithms/test/SockMerchant1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeAlgorithms/test/Test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeAlgorithms/test/Test1Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeAlgorithms/test/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeAlgorithms/test/Test2Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/CatAndMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/CountingValleys2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ElectronicsShop3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ElectronicsShop3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/JumpingOnTheClouds4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/JumpingOnTheClouds4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/SockMerchant1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/CompressString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,115 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Test1Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Test2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Test2Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/SockMerchant1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="166" selection-start-line="13" selection-start-column="166" selection-end-line="13" selection-end-column="166" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/CountingValleys2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/ElectronicsShop3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="51" column="50" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/ElectronicsShop3_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="91" selection-start-line="91" selection-end-line="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/CatAndMouse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="26" column="61" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/JumpingOnTheClouds4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/JumpingOnTheClouds4_2.java">
+        <entry file="file://$PROJECT_DIR$/src/test/CompressString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="348">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -188,6 +56,8 @@
         <option value="$PROJECT_DIR$/src/test/JumpingOnTheClouds.java" />
         <option value="$PROJECT_DIR$/src/test/JumpingOnTheClouds4.java" />
         <option value="$PROJECT_DIR$/src/test/JumpingOnTheClouds4_2.java" />
+        <option value="$PROJECT_DIR$/src/test/CompresString.java" />
+        <option value="$PROJECT_DIR$/src/test/CompressString.java" />
       </list>
     </option>
   </component>
@@ -203,7 +73,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,6 +95,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -233,7 +103,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551969892742" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553019623336" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -267,11 +137,11 @@
   </component>
   <component name="RunManager" selected="Application.JumpingOnTheClouds4_2">
     <configuration name="CatAndMouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.CatAndMouse" />
+      <option name="MAIN_CLASS_NAME" value="problems.CatAndMouse" />
       <module name="PracticeAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,11 +150,11 @@
       </method>
     </configuration>
     <configuration name="ElectronicsShop3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ElectronicsShop3" />
+      <option name="MAIN_CLASS_NAME" value="problems.ElectronicsShop3" />
       <module name="PracticeAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,11 +163,11 @@
       </method>
     </configuration>
     <configuration name="ElectronicsShop3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ElectronicsShop3_2" />
+      <option name="MAIN_CLASS_NAME" value="problems.ElectronicsShop3_2" />
       <module name="PracticeAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,11 +176,11 @@
       </method>
     </configuration>
     <configuration name="JumpingOnTheClouds4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.JumpingOnTheClouds4" />
+      <option name="MAIN_CLASS_NAME" value="problems.JumpingOnTheClouds4" />
       <module name="PracticeAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,61 +189,14 @@
       </method>
     </configuration>
     <configuration name="JumpingOnTheClouds4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.JumpingOnTheClouds4_2" />
+      <option name="MAIN_CLASS_NAME" value="problems.JumpingOnTheClouds4_2" />
       <module name="PracticeAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="PracticeAlgorithms" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="PracticeAlgorithms" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -442,8 +265,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="26" width="1632" height="954" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25220126" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2616352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -457,7 +281,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32896304" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32896304" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -470,7 +294,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Codota" order="8" />
+      <window_info anchor="right" id="Codota" order="8" weight="0.32955974" />
       <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
@@ -603,8 +427,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/JumpingOnTheClouds4_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="435">
+          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/CompressString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>

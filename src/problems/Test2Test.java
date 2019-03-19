@@ -1,4 +1,4 @@
-package test;
+package problems;
 
 import org.testng.annotations.Test;
 
@@ -12,6 +12,6 @@ class Test2Test {
 
     @Test
     public void main1() {
-        assertEquals("test", "");
+        assertEquals("problems", "");
     }
 }

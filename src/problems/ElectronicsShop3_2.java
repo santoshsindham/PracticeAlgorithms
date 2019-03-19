@@ -1,9 +1,10 @@
-package test;
+package problems;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.Scanner;
+
 /*
 Monica wants to buy a keyboard and a USB drive from her favorite electronics store. The store has several models of each. Monica wants to spend as much as possible for the  items, given her budget.
 
@@ -26,26 +27,27 @@ The first line contains three space-separated integers , , and , her budget, the
 The second line contains  space-separated integers , the prices of each keyboard model.
 The third line contains  space-separated integers , the prices of the USB drives.
  */
-public class ElectronicsShop3 {
+public class ElectronicsShop3_2 {
 
     /*
      * Complete the getMoneySpent function below.
      */
     static int getMoneySpent(int[] keyboards, int[] drives, int b) {
 
-        int maxVal = 0;
+        Integer[] keyboardsArr = Arrays.stream( keyboards ).boxed().toArray( Integer[]::new );
 
-        for(int i=0; i<keyboards.length; i++){
-            for(int j=0; j<drives.length; j++){
-                if ((keyboards[i] + drives[j]) > maxVal && (keyboards[i] + drives[j]) <= b){
-                    maxVal = (keyboards[i] + drives[j]);
-                }
-                if(maxVal == 0){
-                    maxVal = -1;
-                }
+        Arrays.sort(keyboardsArr, Collections.reverseOrder());//Descending order
+        Arrays.sort(drives);//Ascending order
+
+        int max = -1;
+        for(int i = 0, j = 0; i < keyboards.length; i++){
+            for(; j < drives.length; j++){
+                if(keyboards[i]+drives[j] > b) break; //This prevents j from incrementing
+                if(keyboards[i]+drives[j] > max)
+                    max = keyboards[i]+drives[j];
             }
         }
-        return maxVal;
+        return max;
     }
 
     public static void main(String[] args) throws IOException {
