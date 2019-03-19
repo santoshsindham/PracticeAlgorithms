@@ -35,7 +35,7 @@ class Consumer implements Runnable
                 System.out.println("Queue is empty " + Thread.currentThread().getName() + " is waiting , size: " + taskQueue.size());
                 taskQueue.wait();
             }
-            Thread.sleep(1000);
+            Thread.sleep(500);
             int i = (Integer) taskQueue.remove(0);
             System.out.println("Consumed: " + i);
             taskQueue.notifyAll();
