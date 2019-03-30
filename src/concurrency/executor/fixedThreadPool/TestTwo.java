@@ -1,4 +1,4 @@
-package concurrency.executor;
+package concurrency.executor.fixedThreadPool;
 
 public class TestTwo implements Runnable {
 

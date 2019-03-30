@@ -1,4 +1,4 @@
-package concurrency.executor;
+package concurrency.executor.fixedThreadPool;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
