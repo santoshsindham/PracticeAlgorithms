@@ -19,22 +19,21 @@ public class CountingValleys2 {
     // Complete the countingValleys function below.
     static int countingValleys(int n, String s) {
 
-        int valCount=0;
-        int currentLevel=0;
+        int valCount = 0;
+        int currentLevel = 0;
 
-        for(char c : s.toCharArray()){
-            if(c == 'U'){
+        for (char c : s.toCharArray()) {
+            if (c == 'U') {
                 currentLevel++;
-            }
-            else if(c == 'D'){
+            } else if (c == 'D') {
                 currentLevel--;
             }
 
-            if(currentLevel == 0 && c == 'U'){
+            if (currentLevel == 0 && c == 'U') {
                 valCount++;
             }
         }
-        
+
         return valCount;
     }
 
@@ -50,7 +49,7 @@ public class CountingValleys2 {
 
         int result = countingValleys(n, s);
 
-        System.out.println("Valley count = "+result);
+        System.out.println("Valley count = " + result);
 //        bufferedWriter.write(String.valueOf(result));
 //        bufferedWriter.newLine();
 //
